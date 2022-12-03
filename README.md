@@ -4,7 +4,8 @@ We proposed an object classification robot that can classify and remove objects 
 
 # Envrionment Setup
 
-Robot base:
+Robot base: turtlebot 3
+camera:
 
 ## With a local Python installation:
 
