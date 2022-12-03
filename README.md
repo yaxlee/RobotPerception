@@ -1,5 +1,3 @@
-# RobotPerception
-
 # Project : Indoor Classification Robot
 
 We proposed an object classification robot that can classify and remove objects in indoor situations.
